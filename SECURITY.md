@@ -12,6 +12,9 @@ pull request:
 2. Choose **Report a vulnerability**. This uses GitHub's private vulnerability
    reporting, so only the maintainer sees the report.
 
+If private vulnerability reporting is not available to you, email
+**security@danfry.dev** instead.
+
 Include the repository, the version or commit, steps to reproduce, and the
 impact you expect.
 
